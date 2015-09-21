@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CommitHistory>
+    <repositories>
+        <repository name="API-Test">
+            <commit sha="e545e7a">
+                <author>Bryan</author>
+                <date>09/11/2015 15:48:02</date>
+                <message>remove text</message>
+            </commit>
+            <commit sha="ed4f8ad">
+                <author>Bryan</author>
+                <date>09/11/2015 15:46:41</date>
+                <message>with pull request</message>
+            </commit>
+        </repository>
+    </repositories>
+</CommitHistory>
